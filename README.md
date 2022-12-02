@@ -1,5 +1,5 @@
 # ProjetMogenius
-Etape pour le déploiement d'un service Nginx sur Docker
+# Etape pour le déploiement d'un service Nginx sur Docker
 ## créer une image 
 `docker image build ./ -t docker-nginx:1.0.0`
 
